@@ -1,0 +1,1 @@
+# PowerBI_painel_gerencial_automatizado
