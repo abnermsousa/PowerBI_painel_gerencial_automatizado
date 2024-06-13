@@ -11,18 +11,30 @@ estivessem devidamente atualizados. Tudo supervisionado e realiado pela Escola D
 
 # Informações do Dashboard
 Receita total
+
 Soma da Receita média por compra
+
 Visualizações na página
+
 Usuários ativos por gênero
+
 Usuários ativos por plataforma
+
 Número de compradores por origem
+
 Número de usuários por cidade
+
 Número de compradores por data
+
 % de visualização por data
 
 # Gráficos utilizados
+
 Cartão
+
 Pizza
+
 Barras
+
 Linhas
 
